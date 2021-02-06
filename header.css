@@ -71,8 +71,8 @@
 }
 
 .cm-nletter {
-	background: #df5076;
-    color: #fff;
+	background: #ffd1dc;
+    color: ##ff85a2;
     font-size: 17px;
     text-transform: uppercase;
     text-align: center;
@@ -83,7 +83,7 @@
 .cm-nletter:visited,
 .cm-nletter:active,
 .cm-nletter:link{
-    color: #fff;
+    color: #ff85a2;
 }
 
 .cm-nletter:hover {
