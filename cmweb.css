@@ -97,14 +97,14 @@
     margin-top: 30px;
 }
 
-/* ---------------------------galery-------------------------- */
+/* ---------------------------gallery-------------------------- */
 .cmweb-gallery {
-    max-width: 450px;
+    max-width: 700px;
 }
 
 .slide {
     overflow: hidden;
-    height: 598px;
+    height: 700px;
     position: relative;
 }
 
@@ -167,7 +167,7 @@
    padding-left: 20px;
 }
 .item-title {
-	font-size:24px;
+	font-size:36px;
 	color:#575757;
 	font-weight: normal;
 }
@@ -213,10 +213,19 @@ a#buy-btn {
     font-size: 16px;
     font-weight: normal;
     letter-spacing: 1px;
-    background-color: #e4e4e4;
+    cursor: pointer;
+    padding: 2px;
+}
+.opt h3 {
+    color: #575757;
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    background-color: #ffd1dc;
     cursor: pointer;
     padding: 10px;
 }
+
 
 .opt h4 {
 	font-size: 14px;
@@ -316,7 +325,7 @@ a#buy-btn {
     transform: translate(0, 50%);
 }
 
-.add-info li.opt input:checked~i::before {
+.add-info li.opt input:ed~i::before {
     transform: translate(2px, 0) rotate(2deg);
 }
 
@@ -619,4 +628,14 @@ ul.add-info li.opt i::after {
     .cmweb-menu ul .cmweb-submenu-wrap ul li a {
         color: #666;
     }
+    .new-product {
+        border: none;
+        background: #ffd1dc;
+        color: #ff85a2;
+        padding: 3px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
 }
