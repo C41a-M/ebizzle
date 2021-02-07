@@ -38,6 +38,25 @@
     display: block;
     width: 100%;
 }
+.header-banner-wrap.header-image-map {
+	position: relative;
+}
+.header-banner-wrap.header-image-map a {
+	display: block;
+	position: absolute;
+}
+.header-banner-wrap.header-image-map a.as-url-1 {
+	width: 29%;
+	height: 12%;
+	right: 6.5%;
+	top: 33%;
+}
+.header-banner-wrap.header-image-map a.as-url-2 {
+	width: 29%;
+	height: 12%;
+	right: 6.5%;
+	top: 54%;
+}
 /* ----------------------------menu-------------------------------------- */
 .mob-menu-button,
 #mobile-nav,
@@ -325,7 +344,7 @@ a#buy-btn {
     transform: translate(0, 50%);
 }
 
-.add-info li.opt input:ed~i::before {
+.add-info li.opt input:checked~i::before {
     transform: translate(2px, 0) rotate(2deg);
 }
 
