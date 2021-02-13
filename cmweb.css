@@ -245,7 +245,6 @@ a#buy-btn {
     padding: 10px;
 }
 
-
 .opt h4 {
 	font-size: 14px;
     color: #666;
@@ -651,6 +650,16 @@ ul.add-info li.opt i::after {
         border: none;
         background: #ffd1dc;
         color: #ff85a2;
+        padding: 3px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .new-colours {
+        border: none;
+        background: #5fd8f7;
+        color: #0e5fc9;
         padding: 3px;
         text-align: center;
         text-decoration: none;
