@@ -212,7 +212,7 @@ a#buy-btn {
 }
 
 .add-info {
-    margin-top: 60px;
+    margin-top: 15px;
 }
 
 .add-info .opt {
@@ -263,6 +263,7 @@ a#buy-btn {
     max-height: 800px;
     overflow-y: auto;
     z-index: 1;
+	color: #575757;
 }
 
 .opt p {
