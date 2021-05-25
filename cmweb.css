@@ -263,6 +263,7 @@ a#buy-btn {
     max-height: 800px;
     overflow-y: auto;
     z-index: 1;
+	background-color: #ffd1dc;
 }
 
 .opt p {
