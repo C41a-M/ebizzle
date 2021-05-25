@@ -19,7 +19,7 @@
 .item-container{
 	display: flex;
 	justify-content: space-between;
-	border: 1px;
+	border-style: solid;
 	border-color: #ffd1dc;
 }
 
