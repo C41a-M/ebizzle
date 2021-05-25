@@ -37,7 +37,7 @@
 }
 .header-banner a img {
     display: block;
-    width: 50%;
+    width: 100%;
 }
 .header-banner-wrap.header-image-map {
 	position: relative;
@@ -124,7 +124,7 @@
 
 .slide {
     overflow: hidden;
-    height: 598px;
+    height: 300px;
     position: relative;
 }
 
