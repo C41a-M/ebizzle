@@ -183,11 +183,11 @@
 /* ----------------------item-info-------------------------  */
 
 .item-info {
-   max-width:570px;
+   max-width:650px;
    padding-left: 20px;
 }
 .item-title {
-	font-size:36px;
+	font-size:30px;
 	color:#575757;
 	font-weight: normal;
 }
@@ -413,7 +413,7 @@ ul.add-info li.opt i::after {
 	}
 
 	.item-title{
-		margin-top: 40px;
+		margin-top: 20px;
 	}
 }
 
