@@ -417,6 +417,10 @@ ul.add-info li.opt i::after {
 		margin-top: 10px;
 		background-color: #ffd1dc;
 	}
+	
+	.item-title-sub{
+		margin-top: 10px;
+	}	
 }
 
 @media screen and (max-width: 769px) {
