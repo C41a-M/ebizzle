@@ -263,7 +263,6 @@ a#buy-btn {
     max-height: 800px;
     overflow-y: auto;
     z-index: 1;
-	background-color: #ffd1dc;
 }
 
 .opt p {
@@ -414,7 +413,8 @@ ul.add-info li.opt i::after {
 	}
 
 	.item-title{
-		margin-top: 20px;
+		margin-top: 10px;
+		background-color: #ffd1dc;
 	}
 }
 
