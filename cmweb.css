@@ -19,6 +19,8 @@
 .item-container{
 	display: flex;
 	justify-content: space-between;
+	border: 1px;
+	border-color: #ffd1dc;
 }
 
 /* -------------------------header promo banner-------------------------- */
