@@ -133,7 +133,8 @@ div.chia-m-top-bar span:first-child {
 div.chia-m-logo {
 	display: block;
 	/*margin-top: 24px;*/
-	margin-top: 5px;
+	margin-top: 20px;
+    margin-bottom: 20px;
 }
 div.chia-m-logo a {
 	display: block;
