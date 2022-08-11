@@ -80,7 +80,7 @@ div.chia-m-top-bar:after {
 	max-width: 100%;
 	/*margin: 0px auto 20px auto;*/
 	height: 163px; /* CHANGE IF NEEDED */
-	background: url(https://cdn.ecommercedns.uk/files/5/248145/9/24875619/banxeer-header.png) no-repeat center center #1F419A;
+	background: url(https://cdn.ecommercedns.uk/files/5/248145/9/24875619/banxeer-header.png) no-repeat center center #ffffff;
 	/*background: url(../img/outlet-banner-top-deep-blue.jpg) no-repeat center center #001E45;*/
 	background-size: contain;
 }
