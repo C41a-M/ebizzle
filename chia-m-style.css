@@ -608,9 +608,9 @@ div.size-guide-wrap label.table-open:after {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
-div.size-guide-wrap input#mensclothing:checked ~ table.mensclothingtable,
+div.size-guide-wrap input#multibuy:checked ~ table.multibuytable,
 div.size-guide-wrap input#mensshoes:checked ~ table.mensshoestable,
-div.size-guide-wrap input#womensclothing:checked ~ table.womensclothingtable,
+div.size-guide-wrap input#womultibuy:checked ~ table.womultibuytable,
 div.size-guide-wrap input#womensshoes:checked ~ table.womensshoestable,
 div.size-guide-wrap input#juniorandinfantclothing:checked ~ table.juniorandinfantclothingtable,
 div.size-guide-wrap input#juniorandinfantshoes:checked ~ table.juniorandinfantshoestable {
