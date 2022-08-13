@@ -493,7 +493,7 @@ div.chia-m-mobile-title {
 div.chia-m-title h1,
 div.chia-m-mobile-title h1 {
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 16px;
 }
 div.chia-m-product-code {
 	width: 100%;
@@ -546,7 +546,7 @@ div.size-guide-holder {
 	/* height: 400px; */
 	/* background-color: #ffffff;*/
 }
-input#size-guide-checker:checked ~ div.chia-m-size-guide div.size-guide-holder {
+input#available-offers:checked ~ div.chia-m-size-guide div.size-guide-holder {
 	display: block;
 	z-index: 999;
 }
