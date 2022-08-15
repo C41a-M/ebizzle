@@ -220,7 +220,7 @@ div.chia-m-mobile-menu label {
 	height: 48px;
 	padding: 0 30px 0 80px; 
 	cursor: pointer;
-	background-color: #101A31;
+	background-color: #d4168c;
 	background-image: url(https://files.ecommercedns.uk/248145/1919a308523c1f2d063f4ef83e125729.png);
 	background-size: auto 35px;
 	background-repeat: no-repeat;
@@ -233,7 +233,7 @@ div.chia-m-mobile-menu ul li {
 	text-indent: 5px;
 }
 div.chia-m-mobile-menu ul li a {
-	color: #000000;
+	color: #d4168c;
 	font-size: 16px;
 	font-weight: bold;
 	display: block;
