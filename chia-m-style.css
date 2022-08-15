@@ -221,7 +221,7 @@ div.chia-m-mobile-menu label {
 	padding: 0 30px 0 80px; 
 	cursor: pointer;
 	background-color: #101A31;
-	background-image: url(https://jackwills.pentagonhosting.co.uk/design/img/mobile_menu.png);
+	background-image: url(https://files.ecommercedns.uk/248145/1919a308523c1f2d063f4ef83e125729.png);
 	background-size: auto 35px;
 	background-repeat: no-repeat;
 	background-position: 30px center;
@@ -304,11 +304,11 @@ div.chia-m-right {
 }
 .chia-m-imgwrap .left {
 	left: 16px;
-	background: url(https://files.ecommercedns.uk/248145/0a74bfa15115f3667b4b24c834dc05dd.png);
+	background: url(https://files.ecommercedns.uk/248145/0e6b8cf83fd550cda729bf93dbe840e1.png);
 }
 .chia-m-imgwrap .right {
 	right: 50px;
-	background: url(https://files.ecommercedns.uk/248145/bbd9a1dd4d5adcaefe278b20f14a04f4.png);
+	background: url(https://files.ecommercedns.uk/248145/d58cba8ed0963079b40657d5d8c4ca42.png);
 }
 .chia-m-imgwrap input {
 	display: none;
@@ -603,7 +603,7 @@ div.size-guide-wrap label.table-open:after {
 	width: 12px;
 	height: 7px;
 	margin-left: 12px;
-	background-image: url(../img/arrow-down.png);
+	background-image: url(https://files.ecommercedns.uk/248145/8d7755ee518e954cd67b906f8a0c85e5.png);
 	-webkit-background-size: 100% 100%;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -617,7 +617,7 @@ div.size-guide-wrap input#juniorandinfantshoes:checked ~ table.juniorandinfantsh
 	display: table;
 }
 div.size-guide-wrap input:checked + label:after {
-	background-image: url(../img/arrow-up.png);
+	background-image: url(https://files.ecommercedns.uk/248145/529ed15bff91fce01aa2ddba8da62951.png);
 }
 div.size-guide-wrap table {
 	display: none;
